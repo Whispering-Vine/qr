@@ -19,17 +19,16 @@
             .then(response => response.json())
             .then(data => {
                 // Check if the id exists in the JSON
-                console.log(id);
-                console.log(data[id]);
-                /*
+                
                 if (data[id]) {
                     // Redirect to the URL stored in the JSON
                     window.location.href = data[id];
+                } else  if (id === "xmas/holiday-buy-guide.pdf") {
+                    window.location.href = "https://qr.wvwine.co/xmas"
                 } else {
                     // If not found, redirect to the main website
                     window.location.href = 'https://wvwine.co';
                 }
-                */
             })
             .catch(error => {
                 console.error('Error fetching codes.json:', error);
