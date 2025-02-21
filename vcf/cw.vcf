@@ -4,8 +4,8 @@ FN:Curtis Worrall
 N:Worrall;Curtis;;;
 ORG:Whispering Vine Wine Co.
 EMAIL:curtis@whisperingvinewine.com
-TEL;TYPE=WORK,VOICE:(775) 786-1323
-TEL;TYPE=WORK,VOICE:(775) 622-8080
-ADR;TYPE=WORK:;;4201 W 4th St.;Reno;NV;89523;USA
-ADR;TYPE=WORK:;;85 Foothill Rd. Ste 1;Reno;NV;89511;USA
+TEL;TYPE=WORK,VOICE;LABEL="Fourth St.":(775) 786-1323
+TEL;TYPE=WORK,VOICE;LABEL="South Creek":(775) 622-8080
+ADR;TYPE=WORK;LABEL="Fourth St.":;;4201 W 4th St.;Reno;NV;89523;USA
+ADR;TYPE=WORK;LABEL="South Creek":;;85 Foothill Rd. Ste 1;Reno;NV;89511;USA
 END:VCARD
