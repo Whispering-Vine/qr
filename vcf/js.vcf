@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jordan
+N:Stewart;Joran;;;
+ORG:Whispering Vine Wine Co.
+EMAIL:jordan@whisperingvinewine.com
+TEL;TYPE=WORK,VOICE;LABEL="South Creek":(775) 622-8080
+ADR;TYPE=WORK;LABEL="South Creek":;;85 Foothill Rd. Ste 1;Reno;NV;89511;USA
+END:VCARD
